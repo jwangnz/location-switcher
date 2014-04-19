@@ -7,7 +7,7 @@
 
   <key>ProgramArguments</key>
   <array>
-      <string>/Users/tsing/bin/update-location.sh</string>
+      <string>/usr/local/bin/update-location.sh</string>
   </array>
 
   <key>WatchPaths</key>
